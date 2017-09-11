@@ -1,0 +1,12 @@
+{
+    "current_version": 3,
+    "dependencies": "",
+    "logging_enabled": "false",
+    "name": "searchStub",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "searchStub.js"
+}
