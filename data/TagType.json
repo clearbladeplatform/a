@@ -1,0 +1,36 @@
+{
+    "app_id": "d096b99a0bfca293f8adfdd1a39e01",
+    "collection_id": "88ab8c9b0bf0da8ad4898aeff4c001",
+    "items": [],
+    "name": "TagType",
+    "permissions": {
+        "Package_Service_User": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "id",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "created_time",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "updated_time",
+            "ColumnType": "timestamp",
+            "PK": false
+        }
+    ]
+}
