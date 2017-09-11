@@ -1,0 +1,76 @@
+{
+    "app_id": "d096b99a0bfca293f8adfdd1a39e01",
+    "collection_id": "ccf58f9b0b8a9e9db1a0d1bed064",
+    "items": [],
+    "name": "UserMetrics",
+    "permissions": {
+        "Package_Service_User": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "id",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "contributions_count",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "downloads_count",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "has_created_account",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "has_created_system",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "has_deployed_edge",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "tutorials_completed_count",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "cb_academy_classes_count",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "is_cb_academy_certified",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "user_id",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "created_time",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "updated_time",
+            "ColumnType": "timestamp",
+            "PK": false
+        }
+    ]
+}
