@@ -1,0 +1,26 @@
+{
+    "app_id": "d096b99a0bfca293f8adfdd1a39e01",
+    "collection_id": "acfd8c9b0bf8a690f1d0b2a98d35",
+    "items": [],
+    "name": "Dependent_Dependency",
+    "permissions": {
+        "Package_Service_User": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "dependent_id",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "dependency_id",
+            "ColumnType": "int",
+            "PK": false
+        }
+    ]
+}
