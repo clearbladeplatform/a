@@ -1,0 +1,26 @@
+{
+    "app_id": "d096b99a0bfca293f8adfdd1a39e01",
+    "collection_id": "9af28d9b0ba6d58dd8b198f4ab07",
+    "items": [],
+    "name": "Contributors",
+    "permissions": {
+        "Package_Service_User": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "user_id",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "package_id",
+            "ColumnType": "int",
+            "PK": false
+        }
+    ]
+}
