@@ -1,0 +1,726 @@
+{
+    "config": {
+        "cols": {
+            "lg": 12,
+            "md": 10,
+            "sm": 6,
+            "xs": 4,
+            "xxs": 2
+        },
+        "currentBreakpointForFlyoutWidgets": "lg",
+        "currentBreakpointForPanes": "lg",
+        "currentBreakpointsForWidgets": {
+            "19c88519-82d4-4faa-8e3f-ed022a3a7d0f": "lg"
+        },
+        "datasources": {},
+        "flyoutWidgetLayout": {
+            "lg": [],
+            "md": [],
+            "sm": [],
+            "xs": [],
+            "xxs": []
+        },
+        "headerWidgetLayout": {
+            "lg": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 42,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 46,
+                    "x": 185,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "a6b57312-0b76-40ae-aa3d-11a4cd68151c",
+                    "moved": false,
+                    "static": false,
+                    "w": 57,
+                    "x": 329,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "4575d4ce-37ed-4131-9799-0c0ba819556c",
+                    "moved": false,
+                    "static": false,
+                    "w": 36,
+                    "x": 100,
+                    "y": 0
+                }
+            ],
+            "md": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 36,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 39,
+                    "x": 154,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "a6b57312-0b76-40ae-aa3d-11a4cd68151c",
+                    "w": 36,
+                    "x": 83,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "4575d4ce-37ed-4131-9799-0c0ba819556c",
+                    "w": 36,
+                    "x": 83,
+                    "y": 0
+                }
+            ],
+            "sm": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 34,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 37,
+                    "x": 117,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "a6b57312-0b76-40ae-aa3d-11a4cd68151c",
+                    "w": 36,
+                    "x": 64,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "4575d4ce-37ed-4131-9799-0c0ba819556c",
+                    "w": 36,
+                    "x": 64,
+                    "y": 0
+                }
+            ],
+            "xs": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 28,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 31,
+                    "x": 71,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "a6b57312-0b76-40ae-aa3d-11a4cd68151c",
+                    "w": 36,
+                    "x": 40,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "4575d4ce-37ed-4131-9799-0c0ba819556c",
+                    "w": 36,
+                    "x": 40,
+                    "y": 0
+                }
+            ],
+            "xxs": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 32,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 33,
+                    "x": 47,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "a6b57312-0b76-40ae-aa3d-11a4cd68151c",
+                    "w": 36,
+                    "x": 27.5,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "4575d4ce-37ed-4131-9799-0c0ba819556c",
+                    "w": 36,
+                    "x": 27.5,
+                    "y": 0
+                }
+            ]
+        },
+        "pages": {
+            "08405f5d-6ee0-418d-aefb-d52c05dd4d82": {
+                "children": [],
+                "defaultValue": "",
+                "href": "",
+                "id": "08405f5d-6ee0-418d-aefb-d52c05dd4d82",
+                "isChild": false,
+                "isParam": false,
+                "name": "Install",
+                "path": ""
+            },
+            "20531ce9-e8af-4d93-9c6e-d098bae87fff": {
+                "children": [],
+                "defaultValue": "",
+                "href": "",
+                "id": "20531ce9-e8af-4d93-9c6e-d098bae87fff",
+                "isChild": false,
+                "isParam": false,
+                "name": "SearchResults",
+                "path": ""
+            },
+            "38ed1c0d-7cc3-4b8c-b935-702143bd7059": {
+                "children": [],
+                "href": "",
+                "id": "38ed1c0d-7cc3-4b8c-b935-702143bd7059",
+                "isChild": false,
+                "name": "Search",
+                "path": ""
+            },
+            "4ce64f5b-fc32-44a4-9c70-db122eff327d": {
+                "children": [
+                    "eb770bd8-77ce-4939-82cc-849359c8edc7"
+                ],
+                "defaultValue": "",
+                "href": "",
+                "id": "4ce64f5b-fc32-44a4-9c70-db122eff327d",
+                "isChild": false,
+                "isParam": false,
+                "name": "Publish",
+                "path": ""
+            },
+            "925dd5b1-c2c1-4814-be9f-7d5399d30286": {
+                "children": [],
+                "defaultValue": "",
+                "href": "",
+                "id": "925dd5b1-c2c1-4814-be9f-7d5399d30286",
+                "isChild": false,
+                "isParam": false,
+                "name": "Registration",
+                "path": ""
+            },
+            "Home": {
+                "children": [],
+                "defaultValue": "",
+                "href": "",
+                "id": "Home",
+                "isChild": false,
+                "isParam": false,
+                "name": "Home",
+                "path": ""
+            },
+            "eb770bd8-77ce-4939-82cc-849359c8edc7": {
+                "children": [],
+                "defaultValue": "",
+                "href": "",
+                "id": "eb770bd8-77ce-4939-82cc-849359c8edc7",
+                "isChild": true,
+                "isParam": false,
+                "name": "PublishDetails",
+                "path": ""
+            }
+        },
+        "paneGridWidgetLayouts": {
+            "19c88519-82d4-4faa-8e3f-ed022a3a7d0f": {
+                "lg": [],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            }
+        },
+        "paneLayouts": {
+            "08405f5d-6ee0-418d-aefb-d52c05dd4d82": {
+                "lg": [],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            },
+            "20531ce9-e8af-4d93-9c6e-d098bae87fff": {
+                "lg": [],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            },
+            "38ed1c0d-7cc3-4b8c-b935-702143bd7059": {
+                "lg": [],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            },
+            "4ce64f5b-fc32-44a4-9c70-db122eff327d": {
+                "lg": [],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            },
+            "925dd5b1-c2c1-4814-be9f-7d5399d30286": {
+                "lg": [],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            },
+            "Home": {
+                "lg": [
+                    {
+                        "h": 2,
+                        "i": "614a2ad1-3352-4f61-a5e8-e49b632b451f",
+                        "w": 12,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            },
+            "eb770bd8-77ce-4939-82cc-849359c8edc7": {
+                "lg": [],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            }
+        },
+        "panes": {
+            "614a2ad1-3352-4f61-a5e8-e49b632b451f": {
+                "customPaneId": "",
+                "header": {
+                    "title": ""
+                },
+                "hiddenBreakpoints": {},
+                "id": "614a2ad1-3352-4f61-a5e8-e49b632b451f",
+                "pageId": "Home",
+                "tabInfo": {
+                    "activeTab": "19c88519-82d4-4faa-8e3f-ed022a3a7d0f",
+                    "tabIds": [
+                        "19c88519-82d4-4faa-8e3f-ed022a3a7d0f"
+                    ],
+                    "tabTitles": {
+                        "19c88519-82d4-4faa-8e3f-ed022a3a7d0f": "DOUBLE CLICK"
+                    },
+                    "tabbed": false
+                },
+                "themeType": "primary"
+            }
+        },
+        "savedPortalExists": true,
+        "upgradesPerformed": {
+            "flyoutTitleUpgrade": true,
+            "headerBrandUpgrade": true,
+            "headerTitleUpgrade": true
+        },
+        "widgets": {
+            "4575d4ce-37ed-4131-9799-0c0ba819556c": {
+                "data": {
+                    "__altered": false,
+                    "_root": {
+                        "entries": [
+                            [
+                                "html",
+                                {
+                                    "CSS": ".underline {\n  text-decoration: underline;\n}\n",
+                                    "HTML": "\u003cdiv class=\"text-center underline\"\u003e\n  \u003ca name=\"#Home\"\u003eCLick me\u003c/a\u003e\n\u003c/div\u003e\n",
+                                    "JavaScript": "//JavaScript\n"
+                                }
+                            ]
+                        ],
+                        "ownerID": {}
+                    },
+                    "html": {
+                        "CSS": ".underline {\n  text-decoration: underline;\n}\n",
+                        "HTML": "\u003cdiv class=\"text-center underline\"\u003e\n  \u003ca name=\"Home\" href=\"/#Home\"\u003eCLick me\u003c/a\u003e\n\u003c/div\u003e\n",
+                        "JavaScript": "//JavaScript\n"
+                    },
+                    "size": 1
+                },
+                "id": "4575d4ce-37ed-4131-9799-0c0ba819556c",
+                "props": {
+                    "html": {
+                        "dataType": "STATIC_DATA_TYPE",
+                        "force_data": [
+                            "STATIC_DATA_TYPE",
+                            "DYNAMIC_DATA_TYPE"
+                        ],
+                        "incoming_parser": {
+                            "isDebugOn": false,
+                            "value": {
+                                "CSS": ".underline {\n  text-decoration: underline;\n}\n",
+                                "HTML": "\u003cdiv class=\"text-center underline\"\u003e\n  \u003ch2\u003eHTML Widget\u003c/h2\u003e\n\u003c/div\u003e\n",
+                                "JavaScript": "//JavaScript\n"
+                            }
+                        },
+                        "value": {
+                            "CSS": ".underline {\n  text-decoration: underline;\n}\n",
+                            "HTML": "\u003cdiv class=\"text-center underline\"\u003e\n  \u003ca name=\"Home\" href=\"/#Home\"\u003eCLick me\u003c/a\u003e\n\u003c/div\u003e\n",
+                            "JavaScript": "//JavaScript\n"
+                        }
+                    }
+                },
+                "tab": null,
+                "type": "HTML_WIDGET_COMPONENT"
+            },
+            "a6b57312-0b76-40ae-aa3d-11a4cd68151c": {
+                "data": {
+                    "__altered": false,
+                    "_root": {
+                        "entries": [
+                            [
+                                "size",
+                                2
+                            ],
+                            [
+                                "_root",
+                                {
+                                    "entries": [
+                                        [
+                                            "size",
+                                            0
+                                        ],
+                                        [
+                                            "__altered",
+                                            false
+                                        ]
+                                    ],
+                                    "ownerID": {}
+                                }
+                            ],
+                            [
+                                "__altered",
+                                false
+                            ]
+                        ],
+                        "ownerID": {}
+                    },
+                    "size": 3
+                },
+                "id": "a6b57312-0b76-40ae-aa3d-11a4cd68151c",
+                "props": {
+                    "HAS_UNIQUE_STYLE": false,
+                    "backgroundColor": "#f5f5f5",
+                    "backgroundHoverColor": "#c2c2c2",
+                    "borderColor": "#cccccc",
+                    "eventTarget": {
+                        "dataType": "DYNAMIC_DATA_TYPE",
+                        "force_data": [
+                            "DYNAMIC_DATA_TYPE"
+                        ],
+                        "outgoing_parser": {
+                            "isDebugOn": false,
+                            "value": "return this.widget;"
+                        }
+                    },
+                    "fontColor": "#000000",
+                    "label": "Publish"
+                },
+                "tab": null,
+                "type": "BUTTON_WIDGET_COMPONENT"
+            },
+            "brand": {
+                "data": {
+                    "__altered": false,
+                    "_root": {
+                        "entries": [
+                            [
+                                "size",
+                                4
+                            ],
+                            [
+                                "_root",
+                                {
+                                    "entries": [
+                                        [
+                                            "size",
+                                            4
+                                        ],
+                                        [
+                                            "_root",
+                                            {
+                                                "entries": [
+                                                    [
+                                                        "size",
+                                                        1
+                                                    ],
+                                                    [
+                                                        "_root",
+                                                        {
+                                                            "entries": [
+                                                                [
+                                                                    "textContent",
+                                                                    "ClearBlade"
+                                                                ]
+                                                            ],
+                                                            "ownerID": {}
+                                                        }
+                                                    ],
+                                                    [
+                                                        "__altered",
+                                                        false
+                                                    ],
+                                                    [
+                                                        "textContent",
+                                                        "ClearBlade"
+                                                    ]
+                                                ],
+                                                "ownerID": {}
+                                            }
+                                        ],
+                                        [
+                                            "__altered",
+                                            false
+                                        ],
+                                        [
+                                            "textContent",
+                                            "ClearBlade"
+                                        ]
+                                    ],
+                                    "ownerID": {}
+                                }
+                            ],
+                            [
+                                "__altered",
+                                false
+                            ],
+                            [
+                                "textContent",
+                                "ClearBlade"
+                            ]
+                        ],
+                        "ownerID": {}
+                    },
+                    "size": 4,
+                    "textContent": "ClearBlade"
+                },
+                "id": "brand",
+                "props": {
+                    "HAS_UNIQUE_STYLE": true,
+                    "fontColor": "#fff",
+                    "fontFamily": "Helvetica",
+                    "fontSize": 18,
+                    "textContent": {
+                        "dataType": "STATIC_DATA_TYPE",
+                        "value": "ClearBlade"
+                    }
+                },
+                "tab": "HEADER",
+                "type": "TEXT_WIDGET_COMPONENT"
+            },
+            "flyoutTitle": {
+                "data": {
+                    "__altered": false,
+                    "_root": {
+                        "entries": [
+                            [
+                                "size",
+                                4
+                            ],
+                            [
+                                "_root",
+                                {
+                                    "entries": [
+                                        [
+                                            "size",
+                                            4
+                                        ],
+                                        [
+                                            "_root",
+                                            {
+                                                "entries": [
+                                                    [
+                                                        "size",
+                                                        1
+                                                    ],
+                                                    [
+                                                        "_root",
+                                                        {
+                                                            "entries": [
+                                                                [
+                                                                    "textContent",
+                                                                    ""
+                                                                ]
+                                                            ],
+                                                            "ownerID": {}
+                                                        }
+                                                    ],
+                                                    [
+                                                        "__altered",
+                                                        false
+                                                    ],
+                                                    [
+                                                        "textContent",
+                                                        "CommonsPortal"
+                                                    ]
+                                                ],
+                                                "ownerID": {}
+                                            }
+                                        ],
+                                        [
+                                            "__altered",
+                                            false
+                                        ],
+                                        [
+                                            "textContent",
+                                            "CommonsPortal"
+                                        ]
+                                    ],
+                                    "ownerID": {}
+                                }
+                            ],
+                            [
+                                "__altered",
+                                false
+                            ],
+                            [
+                                "textContent",
+                                "CommonsPortal"
+                            ]
+                        ],
+                        "ownerID": {}
+                    },
+                    "size": 4,
+                    "textContent": "CommonsPortal"
+                },
+                "id": "flyoutTitle",
+                "props": {
+                    "HAS_UNIQUE_STYLE": true,
+                    "fontColor": "#fff",
+                    "fontFamily": "Helvetica",
+                    "fontSize": 30,
+                    "textContent": {
+                        "dataType": "CALCULATED_DATA_TYPE",
+                        "value": "return portalTitle"
+                    }
+                },
+                "type": "TEXT_WIDGET_COMPONENT"
+            },
+            "title": {
+                "data": {
+                    "__altered": false,
+                    "_root": {
+                        "entries": [
+                            [
+                                "size",
+                                4
+                            ],
+                            [
+                                "_root",
+                                {
+                                    "entries": [
+                                        [
+                                            "size",
+                                            1
+                                        ],
+                                        [
+                                            "_root",
+                                            {
+                                                "entries": [
+                                                    [
+                                                        "textContent",
+                                                        "CommonsPortal"
+                                                    ]
+                                                ],
+                                                "ownerID": {}
+                                            }
+                                        ],
+                                        [
+                                            "__altered",
+                                            false
+                                        ],
+                                        [
+                                            "textContent",
+                                            "CommonsPortal"
+                                        ]
+                                    ],
+                                    "ownerID": {}
+                                }
+                            ],
+                            [
+                                "__altered",
+                                false
+                            ],
+                            [
+                                "textContent",
+                                "CommonsPortal"
+                            ]
+                        ],
+                        "ownerID": {}
+                    },
+                    "size": 4,
+                    "textContent": "CommonsPortal"
+                },
+                "id": "title",
+                "props": {
+                    "HAS_UNIQUE_STYLE": true,
+                    "fontColor": "#fff",
+                    "fontFamily": "Trebuchet MS",
+                    "fontSize": 18,
+                    "textContent": {
+                        "dataType": "CALCULATED_DATA_TYPE",
+                        "value": "return portalTitle"
+                    }
+                },
+                "tab": "HEADER",
+                "type": "TEXT_WIDGET_COMPONENT"
+            }
+        }
+    },
+    "description": null,
+    "last_updated": "11 Sep 17 22:31 UTC",
+    "name": "CommonsPortal",
+    "system_key": "d096b99a0bfca293f8adfdd1a39e01",
+    "type": "v2"
+}
