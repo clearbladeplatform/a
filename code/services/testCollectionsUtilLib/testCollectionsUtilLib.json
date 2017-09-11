@@ -1,0 +1,10 @@
+{
+    "current_version": 21,
+    "dependencies": "clearblade,log,collections_util",
+    "logging_enabled": "true",
+    "name": "testCollectionsUtilLib",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "testCollectionsUtilLib.js"
+}
