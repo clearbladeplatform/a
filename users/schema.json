@@ -1,0 +1,10 @@
+{
+    "columns": [
+        {
+            "ColumnName": "devtoken",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ],
+    "permissions": {}
+}
