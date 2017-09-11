@@ -1,0 +1,61 @@
+{
+    "app_id": "d096b99a0bfca293f8adfdd1a39e01",
+    "collection_id": "acf58d9b0b98c0e4d5cdcec4a23f",
+    "items": [],
+    "name": "Users",
+    "permissions": {
+        "Package_Service_User": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "id",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "email",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "password",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "dev_token",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "platform_url",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "github_token",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "organization_id",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "created_time",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "updated_time",
+            "ColumnType": "timestamp",
+            "PK": false
+        }
+    ]
+}
