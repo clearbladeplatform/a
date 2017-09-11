@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "ClearBladeCommons",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "d096b99a0bfca293f8adfdd1a39e01",
+    "system_secret": "D096B99A0BC09BF6BCD3DCC4A39901"
+}
