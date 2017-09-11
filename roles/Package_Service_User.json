@@ -1,0 +1,123 @@
+{
+    "Description": "",
+    "ID": "8af1b49b0b82cec9e1ac85a48029",
+    "Name": "Package_Service_User",
+    "Permissions": {
+        "CodeServices": [],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "c4df8c9b0bd8c5868ed4cabdc7b401",
+                "Items": [],
+                "Level": 7,
+                "Name": "AssetType"
+            },
+            {
+                "Columns": [],
+                "ID": "d0f18f9b0b8cfbf3dbbce4effd8e01",
+                "Items": [],
+                "Level": 7,
+                "Name": "Assets"
+            },
+            {
+                "Columns": [],
+                "ID": "9af28d9b0ba6d58dd8b198f4ab07",
+                "Items": [],
+                "Level": 7,
+                "Name": "Contributors"
+            },
+            {
+                "Columns": [],
+                "ID": "acfd8c9b0bf8a690f1d0b2a98d35",
+                "Items": [],
+                "Level": 7,
+                "Name": "Dependent_Dependency"
+            },
+            {
+                "Columns": [],
+                "ID": "acf18d9b0b86eedcffed8cd8ecef01",
+                "Items": [],
+                "Level": 7,
+                "Name": "ExportHistory"
+            },
+            {
+                "Columns": [],
+                "ID": "bcc88d9b0bc4e7aba3b5c5878422",
+                "Items": [],
+                "Level": 7,
+                "Name": "ImportHistory"
+            },
+            {
+                "Columns": [],
+                "ID": "b0c68c9b0beaf588acca9bab94cc01",
+                "Items": [],
+                "Level": 7,
+                "Name": "LicenseType"
+            },
+            {
+                "Columns": [],
+                "ID": "c6ec8f9b0bd081ade887f0a1b84f",
+                "Items": [],
+                "Level": 7,
+                "Name": "Organizations"
+            },
+            {
+                "Columns": [],
+                "ID": "aafc8c9b0ba2f99bdd8e89daba8201",
+                "Items": [],
+                "Level": 7,
+                "Name": "Package_Tags"
+            },
+            {
+                "Columns": [],
+                "ID": "a0f28f9b0b90bd94cdaa84acc633",
+                "Items": [],
+                "Level": 7,
+                "Name": "Packages"
+            },
+            {
+                "Columns": [],
+                "ID": "88ab8c9b0bf0da8ad4898aeff4c001",
+                "Items": [],
+                "Level": 7,
+                "Name": "TagType"
+            },
+            {
+                "Columns": [],
+                "ID": "88c08c9b0bb2d4dfcce4cb97aa8601",
+                "Items": [],
+                "Level": 7,
+                "Name": "Tags"
+            },
+            {
+                "Columns": [],
+                "ID": "ccf58f9b0b8a9e9db1a0d1bed064",
+                "Items": [],
+                "Level": 7,
+                "Name": "UserMetrics"
+            },
+            {
+                "Columns": [],
+                "ID": "acf58d9b0b98c0e4d5cdcec4a23f",
+                "Items": [],
+                "Level": 7,
+                "Name": "Users"
+            }
+        ],
+        "DevicesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
